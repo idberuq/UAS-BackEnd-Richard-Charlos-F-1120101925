@@ -1,0 +1,180 @@
+{
+    "Body":[
+        {
+            "main_konten":[
+                {
+                    "top_konten":[
+                        {
+                            "top_konten-card1":[
+                                {
+                                    "title":"Javascript : Prototype vs Class",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-1.jpg.pagespeed.ic.2GXRfHYjOg.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "top_konten-card2":[
+                                {
+                                    "title":"Chrome Extension Protects Against JavaScript-Based CPU Side-Channel Attacks",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-4.jpg.pagespeed.ic.5tBCPmCJW-.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "top_konten-card3":[
+                                {
+                                    "title":"Why Node.js Is The Coolest Kid On The Backend Development Block!",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-6.jpg.pagespeed.ic.XqKLoKE85z.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "mid_iklan":[
+                        {
+                            "img":"https://preview.colorlib.com/theme/webmag/img/xad-2.jpg.pagespeed.ic.RB_ZDhAXxh.webp"
+                        }
+                    ],
+                    "bottom_konten":[
+                        {
+                            "bottom_konten-card1":[
+                                {
+                                    "title":"Ask HN: Does Anybody Still Use JQuery?",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-2.jpg.pagespeed.ic.DOAToGcDYE.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "bottom_konten-card2":[
+                                {
+                                    "title":"Ask HN: Does Anybody Still Use JQuery?",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-5.jpg.pagespeed.ic.jXTrIrIxiM.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "bottom_konten-card3":[
+                                {
+                                    "title":"Javascript : Prototype vs Class",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-3.jpg.pagespeed.ic.UjtolzGXxD.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "bottom_konten-card4":[
+                                {
+                                    "title":"Why Node.js Is The Coolest Kid On The Backend Development Block!",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam...",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-1.jpg.pagespeed.ic.2GXRfHYjOg.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "widget":[
+                {
+                    "mid-widget-iklan":[
+                        {
+                            "img":"https://preview.colorlib.com/theme/webmag/img/xad-1.jpg.pagespeed.ic.qQJhsdJdF0.webp"
+                        }
+                    ],
+                    "widget-most_read":[
+                        {
+                            "most_read-post-1":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-1.jpg.pagespeed.ic.NYJjOYjv_V.webp",
+                                    "title":"Tell-A-Tool: Guide To Web Design And Development Tools",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "most_read-post-2":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-2.jpg.pagespeed.ic.cSUEAOhjjU.webp",
+                                    "title":"Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "most_read-post-3":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-3.jpg.pagespeed.ic.5z-SP7IbT6.webp",
+                                    "title":"Why Node.js Is The Coolest Kid On The Backend Development Block!",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "most_read-post-4":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-4.jpg.pagespeed.ic.i3iWR0f20S.webp",
+                                    "title":"Tell-A-Tool: Guide To Web Design And Development Tools",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "widget-catagories":[
+                        {
+                            "widget-categories-1":[
+                                {
+                                    "catagories":"WEB DESIGN",
+                                    "total_catagories":"350"
+                                }
+                            ],
+                            "widget-categories-2":[
+                                {
+                                    "catagories":"JAVASCRIPT",
+                                    "total_catagories":"74"
+                                }
+                            ],
+                            "widget-categories-3":[
+                                {
+                                    "catagories":"JQUERY",
+                                    "total_catagories":"41"
+                                }
+                            ],
+                            "widget-categories-4":[
+                                {
+                                    "catagories":"CSS",
+                                    "total_catagories":"35"
+                                }
+                            ]
+                        }
+                    ],
+                    "widget-tags":[
+                        {
+                            "tags-chrome":"Chrome",
+                            "tags-css":"CSS",
+                            "tags-tutorial":"Tutorial",
+                            "tags-backend":"Backend",
+                            "tags-jquery":"JQuery",
+                            "tags-desain":"Desain",
+                            "tags-development":"Development",
+                            "tags-javascript":"JavaScript",
+                            "tags-website":"Website"
+                        }
+                    ],
+                    "widget-archive":[
+                        {
+                            "widget-archive-h2":"Archive",
+                            "widget-archive-januari-2018":"Jan 2018",
+                            "widget-archive-li-februari-2018":"Feb 2018",
+                            "widget-archive-li-maret-2018":"Mar 2018"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

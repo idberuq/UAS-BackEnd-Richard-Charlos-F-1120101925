@@ -1,0 +1,163 @@
+{
+    "Body":[
+        {
+            "banner":[
+                {
+                    "title-h1":"Ask HN: Does Anybody Still Use JQuery?",
+                    "date":"March 27, 2018",
+                    "catagories":"JAVASCRIPT",
+                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-1.jpg.pagespeed.ic.2GXRfHYjOg.webp"
+                    
+                }
+            ],
+            "artikel":[
+                {
+                    "title1-h3":"Lorem Ipsum: when, and when not to use it",
+                    "text1":"Do you like Cheese Whiz? Spray tan? Fake eyelashes? That's what is Lorem Ipsum to many—it rubs them the wrong way, all the way. It's unreal, uncanny, makes you wonder if something is wrong, it seems to seek your attention for all the wrong reasons. Usually, we prefer the real thing, wine without sulfur based preservatives, real butter, not margarine, and so we'd like our layouts and designs to be filled with real words, with thoughts that count, information that has value.",
+                    "text2":"The toppings you may chose for that TV dinner pizza slice when you forgot to shop for foods, the paint you may slap on your face to impress the new boss is your business. But what about your daily bread? Design comps, layouts, wireframes—will your clients accept that you go about things the facile way? Authorities in our business will tell in no uncertain terms that Lorem Ipsum is that huge, huge no no to forswear forever. Not so fast, I'd say, there are some redeeming factors in favor of greeking text, as its use is merely the symptom of a worse problem to take into consideration.",
+                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-4.jpg.pagespeed.ic.5tBCPmCJW-.webp",
+                    "text3":"You begin with a text, you sculpt information, you chisel away what's not needed, you come to the point, make things clear, add value, you're a content person, you like words. Design is no afterthought, far from it, but it comes in a deserved second. Anyway, you still use Lorem Ipsum and rightly so, as it will always have a place in the web workers toolbox, as things happen, not always the way you like it, not always in the preferred order. Even if your less into design and more into content strategy you may find some redeeming value with, wait for it, dummy copy, no less.",
+                    "text4":"There's lot of hate out there for a text that amounts to little more than garbled words in an old language. The villagers are out there with a vengeance to get that Frankenstein, wielding torches and pitchforks, wanting to tar and feather it at the least, running it out of town in shame.",
+                    "text5":"One of the villagers, Kristina Halvorson from Adaptive Path, holds steadfastly to the notion that design cant be tested without real content:",
+                    "blockquote":"I ve heard the argument that “lorem ipsum” is effective in wireframing or design because it helps people focus on the actual layout, or color scheme, or whatever. What kills me here is that we re talking about creating a user experience that will (whether we like it or not) be DRIVEN by words. The entire structure of the page or app flow is FOR THE WORDS.",
+                    "text6":"If that's what you think how bout the other way around? How can you evaluate content without design? No typography, no colors, no layout, no styles, all those things that convey the important signals that go beyond the mere textual, hierarchies of information, weight, emphasis, oblique stresses, priorities, all those subtle cues that also have visual and emotional appeal to the reader. Rigid proponents of content strategy may shun the use of dummy copy but then designers might want to ask them to provide style sheets with the copy decks they supply that are in tune with the design direction they require.",
+                    "title2-h3":"Summing up, if the copy is diverting attention from the design it s because it s not up to task.",
+                    "text7":"Typographers of yore didn't come up with the concept of dummy copy because people thought that content is inconsequential window dressing, only there to be used by designers who can’t be bothered to read. Lorem Ipsum is needed because words matter, a lot. Just fill up a page with draft copy about the client’s business and they will actually read it and comment on it. They will be drawn to it, fiercely. Do it the wrong way and draft copy can derail your design review."
+                }
+            ],
+            "iklan":[
+                {
+                    "img":"https://preview.colorlib.com/theme/webmag/img/xad-2.jpg.pagespeed.ic.RB_ZDhAXxh.webp"
+                }
+            ],
+            "author":[
+                {
+                    "author_name":"John Doe",
+                    "deskripsi":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                    "img":"https://preview.colorlib.com/theme/webmag/img/xauthor.png.pagespeed.ic.-dOTrKKeTJ.webp"
+                }
+            ],
+            "widget":[
+                {
+                    "mid-widget-iklan":[
+                        {
+                            "img":"https://preview.colorlib.com/theme/webmag/img/xad-1.jpg.pagespeed.ic.qQJhsdJdF0.webp"
+                        }
+                    ],
+                    "widget-most_read":[
+                        {
+                            "most_read-post-1":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-1.jpg.pagespeed.ic.NYJjOYjv_V.webp",
+                                    "title":"Tell-A-Tool: Guide To Web Design And Development Tools",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "most_read-post-2":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-2.jpg.pagespeed.ic.cSUEAOhjjU.webp",
+                                    "title":"Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "most_read-post-3":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-3.jpg.pagespeed.ic.5z-SP7IbT6.webp",
+                                    "title":"Why Node.js Is The Coolest Kid On The Backend Development Block!",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "most_read-post-4":[
+                                {
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xwidget-4.jpg.pagespeed.ic.i3iWR0f20S.webp",
+                                    "title":"Tell-A-Tool: Guide To Web Design And Development Tools",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "featured-post":[
+                        {
+                            "featured-post-card1":[
+                                {
+                                    "title":"Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JAVASCRIPT",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-4.jpg.pagespeed.ic.5tBCPmCJW-.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "featured-post-card2":[
+                                {
+                                    "title":"Ask HN: Does Anybody Still Use JQuery?",
+                                    "date":"March 27, 2018",
+                                    "catagories":"JQUERY",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-5.jpg.pagespeed.ic.jXTrIrIxiM.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ],
+                            "featured-post-card3":[
+                                {
+                                    "title":"Pagedraw UI Builder Turns Your Website Design Mockup Into Code Automatically",
+                                    "date":"March 27, 2018",
+                                    "catagories":"WEB DESIGN",
+                                    "img":"https://preview.colorlib.com/theme/webmag/img/xpost-3.jpg.pagespeed.ic.UjtolzGXxD.webp",
+                                    "url":"https://preview.colorlib.com/theme/webmag/blog-post.html"
+                                }
+                            ]
+                        }
+                    ],
+                    "widget-catagories":[
+                        {
+                            "widget-categories-1":[
+                                {
+                                    "catagories":"WEB DESIGN",
+                                    "total_catagories":"350"
+                                }
+                            ],
+                            "widget-categories-2":[
+                                {
+                                    "catagories":"JAVASCRIPT",
+                                    "total_catagories":"74"
+                                }
+                            ],
+                            "widget-categories-3":[
+                                {
+                                    "catagories":"JQUERY",
+                                    "total_catagories":"41"
+                                }
+                            ],
+                            "widget-categories-4":[
+                                {
+                                    "catagories":"CSS",
+                                    "total_catagories":"35"
+                                }
+                            ]
+                        }
+                    ],
+                    "widget-tags":[
+                        {
+                            "tags-chrome":"Chrome",
+                            "tags-css":"CSS",
+                            "tags-tutorial":"Tutorial",
+                            "tags-backend":"Backend",
+                            "tags-jquery":"JQuery",
+                            "tags-desain":"Desain",
+                            "tags-development":"Development",
+                            "tags-javascript":"JavaScript",
+                            "tags-website":"Website"
+                        }
+                    ],
+                    "widget-archive":[
+                        {
+                            "widget-archive-h2":"Archive",
+                            "widget-archive-januari-2018":"Jan 2018",
+                            "widget-archive-li-februari-2018":"Feb 2018",
+                            "widget-archive-li-maret-2018":"Mar 2018"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
